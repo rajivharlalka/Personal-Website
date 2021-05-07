@@ -100,7 +100,7 @@ const social = {
   facebook: "https://www.facebook.com/rajiv.harlalka.7/",
   linkedin: "https://www.linkedin.com/in/rajivharlalka009/",
   instagram: "https://www.instagram.com/rajiv_harlalka/",
-  resume: "https://drive.google.com/file/d/1huXVqw8lnj96sSn0FJYVRX6eYGA_KTNs/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1VWgD2jnZGYlVhc_jo2gCxJnnqSvucZnE/view?usp=sharing",
 };
 
 export {
