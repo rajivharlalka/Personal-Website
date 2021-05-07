@@ -1,0 +1,24 @@
+
+.Photo {
+  background-image: url("https://ibb.co/nMHZWmN");
+}
+/* Projects Photo */
+.project1 {
+  background-image: url("../styles/blog.jpg");
+  cursor: none;
+}
+.project2 {
+  background-image: url("../styles/Portfolio.jpg");
+  cursor: none;
+}
+
+/* Miscelaneous Activities photo */
+.misc1 {
+  background-image: url("../styles/Screenshot\ 2021-05-06\ 192254.jpg");
+  cursor: none;
+}
+
+/* Contact form parallax effect image */
+.parallax {
+  background-image: url("../styles/background.png");
+}
